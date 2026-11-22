@@ -1,4 +1,4 @@
-# 💻 Project_Template_ComputerScience2
+# 💻 Peso Expense Tracker
 ### Team placeholder — Luis Abuan, Quim Bacalso, Zoereen Gonzalez, Jacob Guadalquiver, Mila Otero, Blake Ubaldo 
 
 *An interactive bill tracker that lists out inputted bills and due dates to help make bills a bit easier to do.*
