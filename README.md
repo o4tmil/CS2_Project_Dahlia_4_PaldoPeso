@@ -5,10 +5,10 @@
 
 ### a. What problem are you trying to solve?
 * **What problem are you trying to solve? Think about who has the problem, why it matters, and what people do about it today:** 
-* Students and everyday earners often struggle to keep track of their daily spending, remaining allowance, and recurring expenses. This matters because losing track of small purchases leads to overspending and running out of money before the week or month ends. Today, many people rely on memory, scattered paper receipts, or manual notes on their phones, which are easy to forget and hard to calculate. *
+* Students and people that earn money often struggle to keep track of their daily spending, remaining allowance, and expenses. This matters because losing track of small purchases leads to overspending and running out of money before the week or month ends. Today, many people rely on memory, scattered paper receipts, or manual notes on their phones, which are easy to forget and hard to calculate. *
 
 * **What are your app's features? How does the app help solve the problem:**
 * The Peso Expense Tracker solves this by giving users an organized, all-in-one system to manage their money. Its features include adding incoming funds, logging and categorizing expenses, viewing real-time balances and transaction history, editing or deleting past records, and calculating daily totals along with weekly and monthly spending averages—complete with visual graphs to clearly show spending habits. *
 
 * **What specific data will you handle:** 
-• The app will collect and store User IDs, usernames, current account balances, unique Transaction IDs, transaction amounts, transaction types (income or expense), expense categories (such as food, transportation, or groceries), and transaction dates in a JSON file. *
+• The app will collect and store User IDs, usernames, current account balances, unique Transaction IDs, transaction amounts, transaction types, expense categories, and transaction dates in a JSON file. *
